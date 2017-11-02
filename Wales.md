@@ -2,7 +2,7 @@ Mountains In Wales
 ==================
 
 * Tryfan myModif
-* Yr Wyddfa
+* Yr Wyddfa modif-collaborator
 * Whateves not here anymore 
 
 
